@@ -1,4 +1,4 @@
-module github.com/DmitriyVTitov/size
+module github.com/samsara-dev/size
 
 go 1.14
 
